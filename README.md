@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/feesguerra/">Fe Esguerra: </a> IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/feesguerra/">About Me & My Portfolio </a>  🛡️🔒💻
 
 An IT and Security Professional, I bring a diverse 20-year background spanning networking, cybersecurity, web, and cloud technologies. My expertise is solidified by certifications like Microsoft Azure (AZ-900, AZ-104, AZ-500, SC-900), CompTIA Security+, and ISC2 Certified in Cybersecurity (CC). I also excel in web development, business application implementation (ERP, CRM, CMS), and project management.
 
