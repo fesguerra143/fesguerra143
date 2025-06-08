@@ -1,5 +1,4 @@
-<h1>Hi, I'm Fe! <br/></h1>
-<h2># <a href="https://www.linkedin.com/in/feesguerra/">Informational Technology & Cybersecurity Professional </a> </h2> 🛡️🔒💻
+<h1>Hi, I'm Fe! <br/></h1><h2># <a href="https://www.linkedin.com/in/feesguerra/">Informational Technology & Cybersecurity Professional </a> </h2> 🛡️🔒💻
 
 An IT and Security Professional with a diverse background spanning networking, cybersecurity, web, and cloud technologies. My expertise is solidified by certifications like Microsoft Azure (AZ-900, AZ-104, AZ-500, SC-900), CompTIA Security+, and ISC2 Certified in Cybersecurity (CC). I also excel in web development, business application implementation (ERP, CRM, CMS), and project management.
 
