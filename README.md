@@ -14,6 +14,12 @@ My passion for cybersecurity is matched by my drive to solve complex problems th
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/fesguerra143/threat-hunting-scenario-tor)**
 
+## 💻 Scanning for Vulnerabilities
+
+- **[Scanning for Vulnerabilities Project](https://github.com/fesguerra143/vulnerability-scan-project)**
+
+
+
 <hr/>
 
 ## 🤳 Connect With Me
