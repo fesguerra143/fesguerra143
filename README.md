@@ -19,6 +19,7 @@ My passion for cybersecurity is matched by my drive to solve complex problems th
 - **[Authenticated vs. Unauthenticated](https://github.com/fesguerra143/vulnerability-scan-project)**
 - **[DISA STIG Compliance Project](https://github.com/fesguerra143/disa-stig-scan-template)**
 - **[Agent Based Monitoring Project](https://github.com/fesguerra143/agent-based-monitoring)**
+- **[Network Discovery Project](https://github.com/fesguerra143/network-discovery)**
 
 
 
