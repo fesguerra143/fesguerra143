@@ -16,7 +16,7 @@ My passion for cybersecurity is matched by my drive to solve complex problems th
 
 ## 💻 Scanning for Vulnerabilities
 
-- **[Scanning for Vulnerabilities Project](https://github.com/fesguerra143/vulnerability-scan-project)**
+- **[Authenticated vs. Unauthenticated](https://github.com/fesguerra143/vulnerability-scan-project)**
 - **[DISA STIG Compliance Project](https://github.com/fesguerra143/disa-stig-scan-template)**
 
 
