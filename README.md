@@ -9,7 +9,7 @@ My passion for cybersecurity is matched by my drive to solve complex problems th
 
 - **[Vulnerability Management Project Implementation](https://github.com/fesguerra143/vulnerability-management-project)**
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/fesguerra143/programmatic-remediation-Windows10)**
-- **[Programmatic Vulnerability Remediations (BASH)](hhttps://github.com/fesguerra143/programmatic-remediation-Linux)**
+- **[Programmatic Vulnerability Remediations (BASH)](https://github.com/fesguerra143/programmatic-remediation-Linux)**
 
 
 ## 🚨 Threat Hunting and Security Operations
