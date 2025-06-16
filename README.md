@@ -15,6 +15,7 @@ My passion for cybersecurity is matched by my drive to solve complex problems th
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario Project 1:  Tor Browser Usage](https://github.com/fesguerra143/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario Project 2:  Sudden Network Slowdowns](https://github.com/fesguerra143/sudden-network-slowdowns)**
 
 ## 💻 Scanning for Vulnerabilities
 
