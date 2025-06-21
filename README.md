@@ -19,7 +19,7 @@ My passion for cybersecurity is matched by my drive to solve complex problems th
 - **[Threat Hunting Scenario Project 3:  Suspicious Data Exfiltration](https://github.com/fesguerra143/suspicious-data-archiving)**
 
 
-## 💻 Scanning for Vulnerabilities
+## 💻 Scanning for Vulnerabilities: Tenable
 
 - **[Authenticated vs. Unauthenticated](https://github.com/fesguerra143/vulnerability-scan-project)**
 - **[DISA STIG Compliance Project](https://github.com/fesguerra143/disa-stig-scan-template)**
