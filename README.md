@@ -19,6 +19,8 @@ Passionate about enhancing organizational security posture and streamlining oper
 - **[Threat Hunting Scenario Project 3:  Suspicious Data Exfiltration](https://github.com/fesguerra143/suspicious-data-archiving)**
 - **[Threat Hunting Scenario Project 4:  Zero-Day Ransomware ](https://github.com/fesguerra143/zero-day-ransonware)**
 - **[Incident Response Scenario Project 5:  Virtual Machine Brute Force Detection ](https://github.com/fesguerra143/Virtual-Machine-Brute-Force-Detection)**
+- **[Incident Response Scenario Project 6:  Potential Impossible Travel ](https://github.com/fesguerra143/Potential-Impossible-Travel)**
+
 
 
 ## 💻 Tenable: Scanning for Vulnerabilities
