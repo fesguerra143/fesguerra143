@@ -21,7 +21,7 @@ Passionate about enhancing organizational security posture and streamlining oper
 
 
 
-## 💻 Scanning for Vulnerabilities: Tenable
+## 💻 Tenable: Scanning for Vulnerabilities
 
 - **[Authenticated vs. Unauthenticated](https://github.com/fesguerra143/vulnerability-scan-project)**
 - **[DISA STIG Compliance Project](https://github.com/fesguerra143/disa-stig-scan-template)**
