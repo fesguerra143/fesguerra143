@@ -12,7 +12,7 @@ Passionate about enhancing organizational security posture and streamlining oper
 - **[Programmatic Vulnerability Remediations (BASH)](https://github.com/fesguerra143/programmatic-remediation-Linux)**
 
 
-## 🚨 Threat Hunting, Security Operations, and Incident Response
+## 🚨 Security Operations: Threat Hunting and Incident Response
 
 - **[Threat Hunting Scenario Project 1:  Tor Browser Usage](https://github.com/fesguerra143/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario Project 2:  Sudden Network Slowdowns](https://github.com/fesguerra143/sudden-network-slowdowns)**
