@@ -12,13 +12,13 @@ Passionate about enhancing organizational security posture and streamlining oper
 - **[Programmatic Vulnerability Remediations (BASH)](https://github.com/fesguerra143/programmatic-remediation-Linux)**
 
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting, Security Operations, and Incident Response
 
 - **[Threat Hunting Scenario Project 1:  Tor Browser Usage](https://github.com/fesguerra143/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario Project 2:  Sudden Network Slowdowns](https://github.com/fesguerra143/sudden-network-slowdowns)**
 - **[Threat Hunting Scenario Project 3:  Suspicious Data Exfiltration](https://github.com/fesguerra143/suspicious-data-archiving)**
 - **[Threat Hunting Scenario Project 4:  Zero-Day Ransomware ](https://github.com/fesguerra143/zero-day-ransonware)**
-
+- **[Incident Response Scenario Project 5:  Virtual Machine Brute Force Detection ](https://github.com/fesguerra143/Virtual-Machine-Brute-Force-Detection)**
 
 
 ## 💻 Tenable: Scanning for Vulnerabilities
