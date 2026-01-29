@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m a Cloud Security & SOC Engineer <br/></h1><h3><a href="https://www.linkedin.com/in/feesguerra/">Information Technology & Cybersecurity Professional </a>  🛡️🔒💻</h3>
+<h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I’m a Cloud Security & SOC Engineer </a>  🛡️🔒💻<br/></h1>
 
 I’m an IT and Security professional with hands-on experience securing cloud, endpoint, identity, and network environments. I hold a BS in Computer Engineering and industry certifications including CompTIA Security+, ISC2 Certified in Cybersecurity (CC), Microsoft Azure (Fundamentals [AZ-900], Administrator Associate [AZ-104], Security Technologies [AZ-500]),  Microsoft Security, Compliance, and Identity Fundamentals (SC-900), Certified iMIS Administrator (CiA), and multiple Fortinet cybersecurity certifications.
 
