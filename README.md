@@ -1,8 +1,10 @@
-<h1>Hi, I'm Fe! <br/></h1><h3><a href="https://www.linkedin.com/in/feesguerra/">Information Technology & Cybersecurity Professional </a>  🛡️🔒💻</h3>
+<h1>👋 Hi, I’m a Cloud Security & SOC Engineer <br/></h1><h3><a href="https://www.linkedin.com/in/feesguerra/">Information Technology & Cybersecurity Professional </a>  🛡️🔒💻</h3>
 
-An IT and Security Professional with a diverse background spanning networking, cybersecurity, web, and cloud technologies. With a BS Computer Engineer and professional certifications like CompTIA Security+, ISC2 Certified in Cybersecurity (CC), Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Administrator Associate (AZ-104), Microsoft Security, Compliance, and Identity Fundamentals (SC-900), Azure Security Technologies (AZ-500), and Certified iMIS Administrator (CiA). I also excel in web development, business application implementation (ERP, CRM, CMS), and project management.
+I’m an IT and Security professional with hands-on experience securing cloud, endpoint, identity, and network environments. I hold a BS in Computer Engineering and industry certifications including CompTIA Security+, ISC2 Certified in Cybersecurity (CC), Microsoft Azure (Fundamentals [AZ-900], Administrator Associate [AZ-104], Security Technologies [AZ-500]),  Microsoft Security, Compliance, and Identity Fundamentals (SC-900), Certified iMIS Administrator (CiA), and multiple Fortinet cybersecurity certifications.
 
-Passionate about enhancing organizational security posture and streamlining operations through technical expertise and strategic implementation. I actively engage in vulnerability management, threat detection, and other initiatives that deepen my understanding of the evolving security landscape. Please take a moment to review my projects to see how I contribute to strengthening security operations.
+I’ve implemented and operated Microsoft Defender XDR, Defender for Cloud, Microsoft Sentinel, Microsoft Entra ID, and Microsoft Intune to improve threat detection, strengthen identity security, and enhance cloud security posture. My work spans vulnerability management, incident response, SIEM/XDR operations, and Zero Trust security controls across Azure and hybrid environments.
+
+I also bring experience in web development, enterprise application implementations (ERP, CRM, CMS), and project management, allowing me to deliver security solutions that align with business and operational needs.
 
 
 ## ⚠️ Vulnerability Management Projects
