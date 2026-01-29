@@ -2,7 +2,7 @@
 
 I’m an IT and Security professional with hands-on experience securing cloud, endpoint, identity, and network environments. I hold a BS in Computer Engineering and industry certifications including CompTIA Security+, ISC2 Certified in Cybersecurity (CC), Microsoft Azure Fundamentals (AZ-900), Administrator Associate (AZ-104), Security Technologies (AZ-500),  Microsoft Security, Compliance, and Identity Fundamentals (SC-900), Certified iMIS Administrator (CiA), and multiple Fortinet cybersecurity certifications.
 
-I’ve implemented and operated Microsoft Defender XDR, Defender for Cloud, Microsoft Sentinel, Microsoft Entra ID, and Microsoft Intune to improve threat detection, strengthen identity security, and enhance cloud security posture. My work spans vulnerability management, incident response, SIEM/XDR operations, and Zero Trust security controls across Azure and hybrid environments.
+I’ve implemented and operated Microsoft Defender XDR, Defender for Cloud, Microsoft Entra ID, Microsoft Intune, Microsoft Purview, and Microsoft Sentinel to improve threat detection, strengthen identity security, and enhance cloud security posture. My work spans vulnerability management, incident response, SIEM/XDR operations, and Zero Trust security controls across Azure and hybrid environments.
 
 I also bring experience in web development, enterprise application implementations (ERP, CRM, CMS), and project management, allowing me to deliver security solutions that align with business and operational needs.
 
