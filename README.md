@@ -26,7 +26,7 @@ Explore my repositories to see:
 <li>Threat Hunting and Incident Response workflows</li>
 <li>Scanning for Vulnerabilities</li>
 </ul>
-<h1>Always learning. Always improving. Always securing.</h1>
+<h3>Always learning. Always improving. Always securing.</h3>
 
 
 ## ⚠️ Vulnerability Management Projects
