@@ -3,13 +3,14 @@
 I’m a Cloud and Network Security professional with hands-on experience designing and defending hybrid environments.
 
 My work focuses on translating security frameworks and threat intelligence into practical, operational controls across:
+<ul>
 <li>Microsoft Entra ID </li>
 <li>Microsoft Defender XDR</li>
 <li>Microsoft Sentinel</li>
 <li>Azure Security & Governance</li>
 <li>Zero Trust implementations</li>
 <li>Firewall (Azure & Fortigate)</li>
-
+</ul>
 This GitHub is where I document:
 <li>Threat hunting queries (KQL)</li>
 <li>Detection mappings to MITRE ATT&CK</li>
