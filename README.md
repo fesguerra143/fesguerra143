@@ -1,4 +1,4 @@
-<h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I'm Fe!</h1> <h2>Securing Cloud & Network Enterprise. Strengthening Identity. Enabling Business.</a>🛡️🔒💻 </h2>
+<h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I'm Fe!</h1><h2>Securing Cloud & Network Enterprise. Strengthening Identity.Enabling Business.</a>🛡️🔒💻 </h2>
 
 I’m a Cloud and Network Security professional with hands-on experience designing and defending hybrid environments.
 
