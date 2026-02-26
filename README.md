@@ -8,7 +8,7 @@ My work focuses on translating security frameworks and threat intelligence into 
 <li>Microsoft Defender XDR</li>
 <li>Microsoft Sentinel</li>
 <li>Microsoft Purview</li>
-<li>Azure Security & Governance</li>
+<li>Azure Security </li>
 <li>Zero Trust implementations</li>
 <li>Firewall (Azure & Fortigate)</li>
 </ul>
