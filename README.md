@@ -7,6 +7,7 @@ My work focuses on translating security frameworks and threat intelligence into 
 <li>Microsoft Entra ID </li>
 <li>Microsoft Defender XDR</li>
 <li>Microsoft Sentinel</li>
+<li>Microsoft Purview</li>
 <li>Azure Security & Governance</li>
 <li>Zero Trust implementations</li>
 <li>Firewall (Azure & Fortigate)</li>
