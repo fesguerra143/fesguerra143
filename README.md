@@ -1,4 +1,4 @@
-<h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I'm Fe! <br /> Securing Cloud & Network Enterprise. Strengthening Identity. Enabling Business.</a>  🛡️🔒💻<br/></h1>
+<h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I'm Fe!</h1> <br /> <h2>Securing Cloud & Network Enterprise. Strengthening Identity. Enabling Business.</a> </h2> 🛡️🔒💻<br/>
 
 I’m a Cloud and Network Security professional with hands-on experience designing and defending hybrid environments.
 
@@ -12,17 +12,20 @@ My work focuses on translating security frameworks and threat intelligence into 
 <li>Firewall (Azure & Fortigate)</li>
 </ul>
 This GitHub is where I document:
+<ul>
 <li>Threat hunting queries (KQL)</li>
 <li>Detection mappings to MITRE ATT&CK</li>
 <li>Security lab builds</li>
 <li>Framework-aligned control implementations</li>
 <li>Practical cloud security experiments</li>
+</ul>
 
 Explore my repositories to see:
+<ul>
 <li>Threat detection engineering</li>
 <li>Incident response workflows</li>
 <li>Security automation scripts</li>
-
+</ul>
 Always learning. Always improving. Always securing.
 
 
