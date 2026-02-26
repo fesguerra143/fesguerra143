@@ -1,4 +1,4 @@
-<h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I'm Fe!</h1> <h2>Securing Cloud & Network Enterprise. Strengthening Identity. Enabling Business.</a> </h2> 🛡️🔒💻<br/>
+<h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I'm Fe!</h1> <h2>Securing Cloud & Network Enterprise. Strengthening Identity. Enabling Business.</a> 🛡️🔒💻 </h2>
 
 I’m a Cloud and Network Security professional with hands-on experience designing and defending hybrid environments.
 
@@ -22,11 +22,11 @@ This GitHub is where I document:
 
 Explore my repositories to see:
 <ul>
-<li>Threat detection engineering</li>
-<li>Incident response workflows</li>
-<li>Security automation scripts</li>
+<li>Vulnerability Management Projects</li>
+<li>Threat Hunting and Incident Response workflows</li>
+<li>Scanning for Vulnerabilities</li>
 </ul>
-Always learning. Always improving. Always securing.
+<h1>Always learning. Always improving. Always securing.</h1>
 
 
 ## ⚠️ Vulnerability Management Projects
