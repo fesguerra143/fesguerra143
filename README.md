@@ -1,10 +1,16 @@
 <h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I’m a Cloud Security & SOC Engineer </a>  🛡️🔒💻<br/></h1>
 
-I’m an IT and Security professional with hands-on experience securing cloud, endpoint, identity, and network environments. I hold a BS in Computer Engineering and industry certifications including CompTIA Security+, ISC2 Certified in Cybersecurity (CC), Microsoft Azure Fundamentals (AZ-900), Administrator Associate (AZ-104), Security Technologies (AZ-500),  Microsoft Security, Compliance, and Identity Fundamentals (SC-900), Certified iMIS Administrator (CiA), and multiple Fortinet cybersecurity certifications.
+I’m a Cloud and Network Security professional specializing in securing hybrid enterprise environments across cloud, identity, endpoint, and network infrastructure. I design resilient, business-aligned security architectures that reduce risk, strengthen visibility, and enable operational agility without slowing innovation.
 
-I’ve implemented and operated Microsoft Defender XDR, Defender for Cloud, Microsoft Entra ID, Microsoft Intune, Microsoft Purview, and Microsoft Sentinel to improve threat detection, strengthen identity security, and enhance cloud security posture. My work spans vulnerability management, incident response, SIEM/XDR operations, and Zero Trust security controls across Azure and hybrid environments.
+I have implemented and operated Microsoft Entra ID, Microsoft Defender XDR, Defender for Cloud, Microsoft Intune, Microsoft Purview, and Microsoft Sentinel to enhance threat detection, mature identity protection, and improve cloud security posture across Azure and hybrid ecosystems. My experience spans vulnerability management, incident response, SIEM/XDR operations, and the implementation of Zero Trust security controls. In addition, I have established and administered cybersecurity awareness training programs and enterprise password management solutions to strengthen human-layer security.
 
-I also bring experience in web development, enterprise application implementations (ERP, CRM, CMS), and project management, allowing me to deliver security solutions that align with business and operational needs.
+I align technical security operations with recognized industry frameworks including Microsoft Cloud Security Benchmark (MCSB), NIST Cybersecurity Framework (CSF), CIS Controls, MITRE ATT&CK, and PCI-DSS. I leverage these frameworks to translate compliance requirements into actionable safeguards, map threats to detection strategies, assess control effectiveness, and continuously strengthen security posture.
+
+With a background in Computer Engineering and certifications including Security+, ISC2 Certified in Cybersecurity (CC), AZ-900, AZ-104, AZ-500, SC-900, CiA, and multiple Fortinet certifications, I bring both hands-on technical depth and structured security governance thinking to every environment I support.
+
+Beyond core security operations, I have contributed to enterprise system implementations (ERP, CRM, CMS) and web development initiatives. This cross-functional perspective enables me to bridge security and business priorities, ensuring that controls support operational goals rather than hinder them.
+
+I am passionate about building secure, scalable, and future-ready environments that protect organizations while empowering growth and innovation.
 
 
 ## ⚠️ Vulnerability Management Projects
