@@ -1,4 +1,4 @@
-<h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I’m a Cloud Security & SOC Engineer </a>  🛡️🔒💻<br/></h1>
+<h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I’m a Cloud & Network Enterprise Security Professional </a>  🛡️🔒💻<br/></h1>
 
 I’m a Cloud and Network Security professional specializing in securing hybrid enterprise environments across cloud, identity, endpoint, and network infrastructure. I design resilient, business-aligned security architectures that reduce risk, strengthen visibility, and enable operational agility without slowing innovation.
 
