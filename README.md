@@ -1,6 +1,6 @@
 <h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I'm Fe!</h1><h2>Securing Cloud & Network Enterprise. Strengthening Identity. Enabling Business.</a>🛡️💻 </h2>
 
-I’m a Cloud and Network Security professional specializing in threat detection, security implementation and monitoring, and cloud security architecture.
+I’m a Cloud and Network Security professional specializing in threat detection, implementing security solutions and cloud security architecture.
 
 Experience working with security platforms including:
 <ul>
