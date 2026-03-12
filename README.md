@@ -55,7 +55,7 @@ Explore my repositories to see:
 - **[Network Discovery Project](https://github.com/fesguerra143/network-discovery)**
 
 
-## ⚠️ SOC Threat Hunting: MITRE ATT&CK Based Threat Analysis
+## 🛡️ SOC Threat Hunting: MITRE ATT&CK Based Threat Analysis
 
 - **[Port of Entry](https://github.com/fesguerra143/soc-threat-hunting-lab-/blob/main/Port_Of_Entry.md)**
 
