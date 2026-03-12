@@ -1,31 +1,26 @@
 <h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I'm Fe!</h1><h2>Securing Cloud & Network Enterprise. Strengthening Identity. Enabling Business.</a>🛡️💻 </h2>
 
-I’m a Cloud and Network Security professional with hands-on experience designing and defending hybrid environments.
+I’m a Cloud and Network Security professional specializing in threat detection, security monitoring, and cloud security architecture.
 
-My work focuses on translating security frameworks and threat intelligence into practical, operational controls across:
+Experience working with Microsoft security platforms including:
 <ul>
 <li>Microsoft Entra ID </li>
 <li>Microsoft Defender XDR</li>
+<li>Microsoft Intune</li>
 <li>Microsoft Sentinel</li>
 <li>Microsoft Purview</li>
 <li>Azure Security </li>
 <li>Zero Trust implementations</li>
 <li>Firewall (Azure & Fortigate)</li>
 </ul>
-This GitHub is where I document:
-<ul>
-<li>Threat hunting queries (KQL)</li>
-<li>Detection mappings to MITRE ATT&CK</li>
-<li>Security lab builds</li>
-<li>Framework-aligned control implementations</li>
-<li>Practical cloud security experiments</li>
-</ul>
 
-Explore my repositories to see:
+## Cybersecurity Portfolio
 <ul>
 <li>Vulnerability Management Projects</li>
 <li>Threat Hunting and Incident Response workflows</li>
 <li>Scanning for Vulnerabilities</li>
+<li>SOC Threat Hunting with MITRE ATT&CK and KQL</li>
+
 </ul>
 <h3>Always learning. Always improving. Always securing.</h3>
 
