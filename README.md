@@ -14,16 +14,9 @@ Experience working with Microsoft security platforms including:
 <li>Firewall (Azure & Fortigate)</li>
 </ul>
 
-## Cybersecurity Portfolio
-<ul>
-<li>Vulnerability Management Projects</li>
-<li>Threat Hunting and Incident Response workflows</li>
-<li>Scanning for Vulnerabilities</li>
-<li>SOC Threat Hunting with MITRE ATT&CK and KQL</li>
-
-</ul>
 <h3>Always learning. Always improving. Always securing.</h3>
 
+## Cybersecurity Portfolio
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Project Implementation](https://github.com/fesguerra143/vulnerability-management-project)**
