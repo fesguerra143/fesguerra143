@@ -29,6 +29,9 @@ Explore my repositories to see:
 </ul>
 <h3>Always learning. Always improving. Always securing.</h3>
 
+## ⚠️ SOC Threat Hunt Investigation Lab Projects: MITRE ATT&CK Based Threat Analysis
+
+- **[Port of Entry](https://github.com/fesguerra143/soc-threat-hunting-lab-/blob/main/Port_Of_Entry.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
