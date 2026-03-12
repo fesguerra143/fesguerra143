@@ -2,7 +2,7 @@
 
 I’m a Cloud and Network Security professional specializing in threat detection, security monitoring, and cloud security architecture.
 
-Experience working with Microsoft security platforms including:
+Experience working with security platforms including:
 <ul>
 <li>Microsoft Entra ID </li>
 <li>Microsoft Defender XDR</li>
