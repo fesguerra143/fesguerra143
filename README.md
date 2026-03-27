@@ -46,7 +46,7 @@ Experience working with security platforms including:
 ## 🛡️ SOC Threat Hunting with MITRE ATT&CK
 
 - **[Port of Entry](https://github.com/fesguerra143/soc-threat-hunting-lab-/blob/main/Port_Of_Entry.md)**
-
+- **[Cargo Hold](https://github.com/fesguerra143/soc-threat-hunting-lab-/blob/main/Cargo_Hold.md)**
 <hr/>
 
 ## 🤳 Connect With Me
