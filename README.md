@@ -47,7 +47,7 @@ Experience working with security platforms including:
 
 - **[Port of Entry](https://github.com/fesguerra143/soc-threat-hunting-lab-/blob/main/Port_Of_Entry.md)**
 - **[Cargo Hold](https://github.com/fesguerra143/soc-threat-hunting-lab-/blob/main/Cargo_Hold.md)**
-- **[Cargo Hold](https://github.com/fesguerra143/soc-threat-hunting-lab-/blob/main/Dead_in_the_Water.md)**
+- **[Dead in the Water](https://github.com/fesguerra143/soc-threat-hunting-lab-/blob/main/Dead_in_the_Water.md)**
 <hr/>
 
 ## 🤳 Connect With Me
