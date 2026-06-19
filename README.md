@@ -1,4 +1,4 @@
-<h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I'm Fe!</h1><h2>Securing Cloud & Network Enterprise. Strengthening Identity. Enabling Business.</a>🛡️💻 </h2>
+<h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I'm Fe!</h1><h2>Building Secure Cloud & Enterprise Environments. Strengthening Identity. Enabling Business.</a>🛡️💻 </h2>
 
 Cybersecurity professional passionate about helping organizations stay ahead of evolving threats through proactive, intelligence-driven security strategies. I specialize in securing hybrid enterprise environments by integrating cloud, identity, endpoint, and network security into a unified defense framework that reduces risk while enabling business growth.
 
