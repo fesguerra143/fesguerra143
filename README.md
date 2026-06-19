@@ -1,17 +1,31 @@
 <h1> <a href="https://www.linkedin.com/in/feesguerra/">👋 Hi, I'm Fe!</h1><h2>Securing Cloud & Network Enterprise. Strengthening Identity. Enabling Business.</a>🛡️💻 </h2>
 
-I’m a Cloud and Network Security professional specializing in threat detection, implementing security solutions and cloud security architecture.
+Cybersecurity professional passionate about helping organizations stay ahead of evolving threats through proactive, intelligence-driven security strategies. I specialize in securing hybrid enterprise environments by integrating cloud, identity, endpoint, and network security into a unified defense framework that reduces risk while enabling business growth.
+
+My expertise spans Microsoft security technologies including Microsoft Entra ID, Defender XDR, Intune, Purview, Sentinel, and Azure security services, where I design and implement solutions that strengthen identity protection, improve threat visibility, and accelerate incident response. I have hands-on experience in vulnerability management, threat hunting, SIEM/XDR operations, incident response, and Zero Trust architecture across complex enterprise environments.
+
+Beyond technology, I am committed to building strong security cultures. I have developed cybersecurity awareness programs, implemented enterprise password management solutions, and helped organizations translate security policies into practical, measurable outcomes that improve resilience against modern cyber threats.
+
+I align security initiatives with industry-recognized frameworks including NIST CSF, CIS Critical Security Controls, MITRE ATT&CK, and PCI DSS, ensuring organizations achieve both compliance and operational security excellence.
+
+With a foundation in Computer Engineering and certifications including CompTIA Security+, ISC2 Certified in Cybersecurity (CC), Microsoft AZ-900, SC-900, AZ-104, AZ-500, and Fortinet certifications, I combine deep technical expertise with strategic thinking to help organizations build secure, scalable, and future-ready environments.
 
 Experience working with security platforms including:
 <ul>
+<li>Cloud Security (Azure) </li>
+<li>Identity & Access Management (IAM) </li>
 <li>Microsoft Entra ID </li>
 <li>Microsoft Defender XDR</li>
 <li>Microsoft Intune</li>
-<li>Microsoft Sentinel</li>
+<li>Microsoft Sentinel (SIEM)</li>
 <li>Microsoft Purview</li>
-<li>Azure Security </li>
-<li>Zero Trust implementations</li>
+<li>Zero Trust Architecture</li>
 <li>Firewall (Azure & Fortigate)</li>
+<li>Threat Hunting & Incident Response</li>
+  <li>Vulnerability Management</li>
+  <li>Security Governance & Compliance</li>
+  <li>NIST CSF, CIS Controls, MITRE ATT&CK, PCI DSS</li>
+  <li>Cybersecurity Awareness & Risk Management</li>
 </ul>
 
 <h3>Always learning. Always improving. Always securing.</h3>
